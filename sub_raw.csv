@@ -1,0 +1,472 @@
+Title
+Forced to Learn: Discovering Disentangled Representations Without Exhaustive Labels
+Alexey Romanov_ Anna Rumshisky
+17-Feb-17
+Deep Nets Don't Learn via Memorization
+David Krueger_ Nicolas Ballas_ Stanislaw Jastrzebski_ Devansh Arpit_ Maxinder S. Kanwal_ Tegan Maharaj_ Emmanuel Bengio_ Akram Erraqabi_ Asja Fischer_ Simon Lacoste-Julien_ Aaron Courville
+17-Feb-17
+Intelligent synapses for multi-task and transfer learning
+Ben Poole*_ Friedemann Zenke*_ Surya Ganguli
+17-Feb-17
+A Quantitative Measure for Evaluating Generative Adversarial Network Distributions
+Dan Hendrycks_ Steven Basart
+17-Feb-17
+Learning Algorithms for Active Learning
+Philip Bachman_ Alessandro Sordoni_ Adam Trischler
+17-Feb-17
+Reinterpreting Importance-Weighted Autoencoders
+Chris Cremer_ Quaid Morris_ David Duvenaud
+17-Feb-17
+Learning the Trend in Time Series via Hybrid Neural Networks
+Tao Lin_ Tian Guo_ Karl Aberer
+17-Feb-17
+Unsupervised and Efficient Neural Graph Model with Distributed Representations
+Tiago Pimentel_ Adriano Veloso_ Nivio Ziviani
+17-Feb-17
+Accelerating SGD for Distributed Deep-Learning Using an Approximted Hessian Matrix
+Sebastien Arnold_ Chunming Wang
+17-Feb-17
+Accelerating Eulerian Fluid Simulation With Convolutional Networks
+Jonathan Tompson_ Kristofer Schlachter_ Pablo Sprechmann_ Ken Perlin
+17-Feb-17
+Bottom Up or Top Down? Dynamics of Deep Representations via Canonical Correlation Analysis
+Maithra Raghu_ Jason Yosinski_ Jascha Sohl-Dickstein
+17-Feb-17
+Robustness to Adversarial Examples through an Ensemble of Specialists
+Mahdieh Abbasi_ Christian Gagne
+17-Feb-17
+Neural Combinatorial Optimization with Reinforcement Learning
+Irwan Bello_ Hieu Pham_ Quoc Le_ Mohammad Norouzi_ Samy Bengio
+17-Feb-17
+Neural Expectation Maximization
+Klaus Greff_ Sjoerd van Steenkiste_ Jürgen Schmidhuber
+17-Feb-17
+Exploring the role of Deep Learning for Particle Tracking in High Energy Physics
+Dustin Anderson_ Jean-Roch Vilmant_ Josh Bendavid_ Maria Spiropoulou_ Stephan Zheng_ Aristeidis Tsaris_ Giuseppe Cerati_ Jim Kowalkowski_ Lindsey Gray_ Panagiotis Spentzouris_ Steve Farrell_ Jesse Livezey_ Prabhat_ Paolo Calafiura
+17-Feb-17
+A Contextual Discretization framework for compressing Recurrent Neural Networks
+Aidan Clark_ Vinay Uday Prabhu_ John Whaley
+17-Feb-17
+Knowledge distillation using unlabeled mismatched images
+Mandar Kulkarni_ Kalpesh Patil_ Shirish Karande
+17-Feb-17
+On Hyperparameter Optimization in Learning Systems
+Luca Franceschi_ Michele Donini_ Paolo Frasconi_ Massimiliano Pontil
+17-Feb-17
+Adversarial Attacks on Neural Network Policies
+Sandy Huang_ Nicolas Papernot_ Ian Goodfellow_ Yan Duan_ Pieter Abbeel
+17-Feb-17
+Audio Super-Resolution using Neural Networks
+Volodymyr Kuleshov_ S. Zayd Enam_ Stefano Ermon
+17-Feb-17
+Weight-averaged consistency targets improve semi-supervised deep learning results
+Antti Tarvainen_ Harri Valpola
+17-Feb-17
+Semantic embeddings for program behaviour patterns
+Alexander Chistyakov_ Ekaterina Lobacheva_ Arseny Kuznetsov_ Alexey Romanenko
+17-Feb-17
+Joint Embeddings of Scene Graphs and Images
+Eugene Belilovsky_ Matthew Blaschko_ Jamie Ryan Kiros_ Raquel Urtasun_ Richard Zemel
+17-Feb-17
+Tactics of Adversarial Attacks on Deep Reinforcement Learning Agents
+Yen-Chen Lin_ Zhang-Wei Hong_ Yuan-Hong Liao_ Meng-Li Shih_ Ming-Yu Liu_ Min Sun
+17-Feb-17
+Joint Training of Ratings and Reviews with Recurrent Recommender Networks
+Chao-Yuan Wu_ Amr Ahmed_ Alex Beutel_ Alexander J. Smola
+17-Feb-17
+Particle Value Functions
+Chris J. Maddison_ Dieterich Lawson_ George Tucker_ Nicolas Heess_ Arnaud Doucet_ Andriy Mnih_ Yee Whye Teh
+17-Feb-17
+Natural Language Generation in Dialogue using Lexicalized and Delexicalized Data
+Shikhar Sharma_ Jing He_ Kaheer Suleman_ Hannes Schulz_ Philip Bachman
+17-Feb-17
+Loss is its own Reward: Self-Supervision for Reinforcement Learning
+Evan Shelhamer_ Parsa Mahmoudieh_ Max Argus_ Trevor Darrell
+17-Feb-17
+Cosegmentation Loss: Enhancing segmentation with a Few Training Samples by Transferring Region Knowledge to Unlabeled Images
+Wataru Shimoda_ Keiji Yanai
+17-Feb-17
+De novo drug design with deep generative models : an empirical study
+Mehdi cherti_ Balazs Kegl_ Akin kazakci
+17-Feb-17
+Out-of-class novelty generation: an experimental foundation
+Mehdi Cherti_ Balázs Kégl_ Ak?n Kazakç?
+17-Feb-17
+Memory Matching Networks for Genomic Sequence Classification
+Jack Lanchantin_ Ritambhara Singh_ Yanjun Qi
+17-Feb-17
+Unseen Style Transfer Based on a Conditional Fast Style Transfer Network
+Keiji Yanai
+17-Feb-17
+Adversarial Discriminative Domain Adaptation (workshop extended abstract)
+Eric Tzeng_ Judy Hoffman_ Kate Saenko_ Trevor Darrell
+17-Feb-17
+Changing Model Behavior at Test-time Using Reinforcement Learning
+Augustus Odena_ Dieterich Lawson_ Christopher Olah
+17-Feb-17
+Efficient Sparse-Winograd Convolutional Neural Networks
+Xingyu Liu_ Song Han_ Huizi Mao_ William J. Dally
+17-Feb-17
+Char2Wav: End-to-End Speech Synthesis
+Jose Sotelo_ Soroush Mehri_ Kundan Kumar_ Joao Felipe Santos_ Kyle Kastner_ Aaron Courville_ Yoshua Bengio
+17-Feb-17
+On the Generalizablity of Representations Learned by GANs and Supervised Learning
+Jiaming Song_ Russell Stewart_ Shengjia Zhao_ Stefano Ermon
+17-Feb-17
+Fast Chirplet Transform Injects Priors in Deep Learning of Animal Calls and Speech
+Hervé Glotin_ Julien Ricard_ Randall Balestriero
+17-Feb-17
+A Note on Deep Variational Models for Unsupervised Clustering
+Rui Shu_ James Brofos_ Curtis Langlotz
+17-Feb-17
+Performance guarantees for transferring representations
+Daniel McNamara_ Maria-Florina Balcan
+17-Feb-17
+Generative Adversarial Learning of Markov Chains
+Jiaming Song_ Shengjia Zhao_ Stefano Ermon
+17-Feb-17
+Short and Deep: Sketching and Neural Networks
+Amit Daniely_ Nevena Lazic_ Yoram Singer_ Kunal Talwar
+17-Feb-17
+Unsupervised Motion Flow estimation by Generative Adversarial Networks
+Stefano Alletto_ Luca Rigazio
+17-Feb-17
+Multimodal Noise and Covering Initializations for GANs
+David Lopez-Paz_ Maxime Oquab
+17-Feb-17
+Deep Pyramidal Residual Networks with Stochastic Depth
+Yoshihiro Yamada_ Masakazu Iwamura_ Koichi Kise
+17-Feb-17
+Understanding intermediate layers using linear classifier probes
+Guillaume Alain_ Yoshua Bengio
+17-Feb-17
+Conditional Image Synthesis With Auxiliary Classifier GANs
+Augustus Odena_ Christopher Olah & Jonathon Shlens
+17-Feb-17
+Symmetry-Breaking Convergence Analysis of Certain Two-layered Neural Networks with ReLU nonlinearity
+Yuandong Tian
+17-Feb-17
+DeepMask: Masking DNN Models for robustness against adversarial samples
+Ji Gao_ Beilun Wang_ Yanjun Qi
+17-Feb-17
+Image Captioning with Sparse LTSM
+Yujun Lin_ Song Han_ Yu Wang_ William J. Dally
+17-Feb-17
+Adversarial Autoencoders for Novelty Detection
+Valentin Leveau_ Alexis Joly
+17-Feb-17
+Programming With a Differentiable Forth Interpreter
+Matko Bošnjak_ Tim Rocktäschel_ Jason Naradowsky_ Sebastian Riedel
+17-Feb-17
+Explaining the Learning Dynamics of Direct Feedback Alignment
+Justin Gilmer_ Colin Raffel_ Samuel S. Schoenholz_ Maithra Raghu_ and Jascha Sohl-Dickstein
+17-Feb-17
+A PRIORI MODELING OF INFORMATION & INTELLIGENCE
+Marcus Abundis
+17-Feb-17
+Generating Conference Call-for-Papers using Stacked Long Short-Term Memory Neural Networks
+Bálint Antal_ Attila Csikász-Nagy_ Rafael E. Carazo Salas
+17-Feb-17
+Disparity Map Prediction from Stereo Laparoscopic Images using a Parallel Deep Convolutional Neural Network
+Bálint Antal
+17-Feb-17
+Training a Subsampling Mechanism in Expectation
+Colin Raffel_ Dieterich Lawson
+17-Feb-17
+Classless Association using Neural Networks
+Federico Raue_ Sebastian Palacio_ Andreas Dengel_ Marcus Liwicki
+17-Feb-17
+Deep Kernel Machines via the Kernel Reparametrization Trick
+Jovana Mitrovic_ Dino Sejdinovic_ Yee Whye Teh
+17-Feb-17
+Encoding and Decoding Representations with Sum- and Max-Product Networks
+Antonio Vergari_ Robert Peharz_ Nicola Di Mauro_ Floriana Esposito
+17-Feb-17
+Restricted Boltzmann Machines provide an accurate metric for retinal responses to visual stimuli
+Christophe Gardella_ Olivier Marre_ Thierry Mora
+17-Feb-17
+Embracing Data Abundance
+Ondrej Bajgar_ Rudolf Kadlec and Jan Kleindienst
+17-Feb-17
+Playing SNES in the Retro Learning Environment
+Nadav Bhonker_ Shai Rozenberg and Itay Hubara
+17-Feb-17
+Consistent Alignment of Word Embedding Models
+Cem Safak Sahin_ Rajmonda S. Caceres_ Brandon Oselio_ William M. Campbell
+17-Feb-17
+Variational Intrinsic Control
+Karol Gregor_ Danilo Jimenez Rezende_ Daan Wierstra
+17-Feb-17
+Unsupervised Feature Learning for Audio Analysis
+Matthias Meyer_ Jan Beutel_ Lothar Thiele
+17-Feb-17
+Fast Adaptation in Generative Models with Generative Matching Networks
+Sergey Bartunov_ Dmitry P. Vetrov
+17-Feb-17
+Efficient variational Bayesian neural network ensembles for outlier detection
+Nick Pawlowski_ Miguel Jaques_ Ben Glocker
+17-Feb-17
+Neural Functional Programming
+John K. Feser_ Marc Brockschmidt_ Alexander L. Gaunt_ Daniel Tarlow
+17-Feb-17
+Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols
+Serhii Havrylov_ Ivan Titov
+17-Feb-17
+Bi-class classification of humpback whale sound units against complex background noise with Deep Convolution Neural Network
+Cazau D._ Lefort R._ Krywyk_ J._ Zarader JL_ Adam_ O.
+17-Feb-17
+A Smooth Optimisation Perspective on Training Feedforward Neural Networks
+Hao Shen
+17-Feb-17
+Synthetic Gradient Methods with Virtual Forward-Backward Networks
+Takeru Miyato_ Daisuke Okanohara_ Shin-ichi Maeda_ Koyama Masanori
+17-Feb-17
+Design and preliminary evaluation of team based competitions in video forecasting
+Florin Popescu_ Isabelle Guyon_ Lisheng Sun_ Diviyan Kalainathan_ Sebastien Treguer_ Cecile Capponi_ Stephane Ayache_ Xavier Baro_ Julio C. Jacques Junior_ Sergio Escalera
+17-Feb-17
+THE PREIMAGE OF RECTIFIER NETWORK ACTIVITIES
+Stefan Carlsson_ Hossein Azizpour_ Ali Razavian_ Josephine Sullivan_ Kevin Smith
+17-Feb-17
+Who Said What: Modeling individual labelers improves classification
+Melody Y. Guan_ Varun Gulshan_ Andrew M. Dai_ Geoffrey E. Hinton
+17-Feb-17
+Joint Multimodal Learning with Deep Generative Models
+Masahiro Suzuki_ Kotaro Nakayama_ Yutaka Matsuo
+17-Feb-17
+Neural Clustering: Concatenating Layers for Better Projections
+Sean Saito_ Robby T. Tan
+17-Feb-17
+HiNet : Hierarchical Classification with Neural Network
+Zhenzhou Wu_ Sean Saito
+17-Feb-17
+Lifelong Perceptual Programming By Example
+Alexander L. Gaunt_ Marc Brockschmidt_ Nate Kushman_ Daniel Tarlow
+17-Feb-17
+Training Triplet Networks with GAN
+Maciej Zieba_ Lei Wang
+17-Feb-17
+On Robust Concepts and Small Neural Nets
+Amit Deshpande_ Sushrut Karmalkar
+17-Feb-17
+Neu0
+Karthik R_ Aman Achpal_ Vinayshekhar BK_ Anantharaman Palacode Narayana Iyer_ Channa Bankapur
+17-Feb-17
+Multimodal Compact Bilinear Pooling for Multimodal Neural Machine Translation
+Jean-Benoit Delbrouck_ Stephane Dupont
+17-Feb-17
+Dance Dance Convolution
+Chris Donahue_ Zachary C. Lipton_ Julian McAuley
+17-Feb-17
+Pl@ntNet app in the era of deep learning
+Antoine Affouard_ Hervé Goeau_ Pierre Bonnet_ Jean-Christophe Lombardo_ Alexis Joly
+17-Feb-17
+Exponential Machines
+Alexander Novikov_ Mikhail Trofimov_ Ivan Oseledets
+17-Feb-17
+Weak Adversarial Boosting
+Sreekalyan Deepakreddy_ Raghav Kulkarni
+17-Feb-17
+Predicting Surgery Duration with Neural Heteroscedastic Regression
+Nathan Ng_ Rodney A Gabriel_ Julian McAuley_ Charles Elkan_ Zachary C Lipton
+17-Feb-17
+Episode-Based Active Learning with Bayesian Neural Networks
+Feras Dayoub_ Niko Suenderhauf_ Peter Corke
+16-Feb-17
+Adversarial examples for generative models
+Jernej Kos_ Ian Fischer_ Dawn Song
+16-Feb-17
+Unsupervised Perceptual Rewards for Imitation Learning
+Pierre Sermanet_ Kelvin Xu_ Sergey Levine
+16-Feb-17
+Bit-Pragmatic Deep Neural Network Computing
+Jorge Albericio_ Patrick Judd_ Alberto Delmás_ Sayeh Sharify_ Andreas Moshovos
+16-Feb-17
+Online Multi-Task Learning Using Biased Sampling
+Sahil Sharma_ Balaraman Ravindran
+16-Feb-17
+Adapting Distance Kernel to Domain adaptation for sentimental analysis 
+Saerom Park_ Jaewook Lee_ Woojin Lee
+16-Feb-17
+On Improving the Numerical Stability of Winograd Convolutions
+Kevin Vincent_ Kevin Stephano_ Michael Frumkin_ Boris Ginsburg_ Julien Demouth
+16-Feb-17
+Fast Generation for Convolutional Autoregressive Models
+Prajit Ramachandran_ Tom Le Paine_ Pooya Khorrami_ Mohammad Babaeizadeh_ Shiyu Chang_ Yang Zhang_ Mark A. Hasegawa-Johnson_ Roy H. Campbell_ Thomas S. Huang
+16-Feb-17
+Online Structure Learning for Sum-Product Networks with Gaussian Leaves
+Wilson Hsu_ Agastya Kalra_ Pascal Poupart
+16-Feb-17
+Similarity preserving compressions of high dimensional sparse data
+Raghav Kulkarni_ Rameshwar Pratap
+16-Feb-17
+Towards an Automatic Turing Test: Learning to Evaluate Dialogue Responses
+Ryan Lowe_ Michael Noseworthy_ Iulian V. Serban_ Nicholas Angelard-Gontier_ Yoshua Bengio_ Joelle Pineau
+16-Feb-17
+A Theoretical Framework for Robustness of (Deep) Classifiers against Adversarial Samples
+Beilun Wang_ Ji Gao_ Yanjun Qi
+16-Feb-17
+Factorization tricks for LSTM networks
+Oleksii Kuchaiev_ Boris Ginsburg
+16-Feb-17
+Exploring LOTS in Deep Neural Networks
+Andras Rozsa_ Manuel Gunther_ Terrance E. Boult
+16-Feb-17
+Shake-Shake regularization of 3-branch residual networks
+Xavier Gastaldi
+16-Feb-17
+Trace Norm Regularised Deep Multi-Task Learning
+Yongxin Yang_ Timothy M. Hospedales
+16-Feb-17
+Deep Learning with Sets and Point Clouds
+Siamak Ravanbakhsh_ Jeff Schneider_ Barnabas Poczos
+16-Feb-17
+INCREMENTAL LEARNING WITH PRE-TRAINED CONVOLUTIONAL NEURAL NETWORKS AND BINARY ASSOCIATIVE MEMORIES
+Ghouthi Boukli Hacene_ Vincent Gripon_ Nicolas Farrugia_ Mattieu Arzel_ Michel Jezequel
+16-Feb-17
+Dataset Augmentation in Feature Space
+Terrance DeVries_ Graham W. Taylor
+16-Feb-17
+Evaluating Dimensionality Reduction of 2D Histogram Data from Truck On-board Sensors
+Evaldas Vaiciukynas_ Matej Ulicny_ Sepideh Pashami_ Slawomir Nowaczyk
+16-Feb-17
+NEUROGENESIS-INSPIRED DICTIONARY LEARNING: ONLINE MODEL ADAPTION IN A CHANGING WORLD
+Sahil Garg_ Irina Rish_ Guillermo Cecchi_ Aurelie Lozano
+16-Feb-17
+Class-based Prediction Errors to Categorize Text with Out-of-vocabulary Words
+Joan Serrà_ Ilias Leontiadis_ Dimitris Spathis_ Gianluca Stringhini_ Jeremy Blackburn
+16-Feb-17
+Delving into adversarial attacks on deep policies
+Jernej Kos_ Dawn Song
+16-Feb-17
+Annealed Generative Adversarial Networks
+Arash Mehrjou_ Saeed Saremi
+16-Feb-17
+Learning a Metric for Relational Data
+Jiajun Pan_ Hoel Le Capitaine_ Philippe Leray
+16-Feb-17
+The High-Dimensional Geometry of Binary Neural Networks
+Alexander G. Anderson_ Cory P. Berg
+16-Feb-17
+Discovering objects and their relations from entangled scene representations
+D. Raposo_ A. Santoro_ D.G.T. Barrett_ R. Pascanu_ T. Lillicrap_ P. Battaglia
+16-Feb-17
+Multiplicative LSTM for sequence modelling
+Ben Krause_ Iain Murray_ Steve Renals_ Liang Lu
+16-Feb-17
+Learning to Discover Sparse Graphical Models
+Eugene Belilovsky_ Kyle Kastner_ Gael Varoquaux_ Matthew B. Blaschko
+16-Feb-17
+A Differentiable Physics Engine for Deep Learning in Robotics
+Jonas Degrave_ Michiel Hermans_ Joni Dambre_ Francis wyffels
+16-Feb-17
+Revisiting Batch Normalization For Practical Domain Adaptation
+Yanghao Li_ Naiyan Wang_ Jianping Shi_ Jiaying Liu_ Xiaodi Hou
+16-Feb-17
+Coupling Distributed and Symbolic Execution for Natural Language Queries
+Lili Mou_ Zhengdong Lu_ Hang Li_ Zhi Jin
+15-Feb-17
+Transferring Knowledge to Smaller Network with Class-Distance Loss
+Seung Wook Kim_ Hyo-Eun Kim
+15-Feb-17
+Automated Generation of Multilingual Clusters for the Evaluation of Distributed Representations
+Philip Blair_ Yuval Merhav_ Joel Barry
+15-Feb-17
+Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently
+Muthuraman Chidambaram_ Yanjun Qi
+15-Feb-17
+Infinite Dimensional Word Embeddings
+Eric Nalisnick_ Sachin Ravi
+15-Feb-17
+Regularizing Neural Networks by Penalizing Confident Output Distributions
+Gabriel Pereyra_ George Tucker_ Jan Chorowski_ Lukasz Kaiser_ Geoffrey Hinton
+15-Feb-17
+Precise Recovery of Latent Vectors from Generative Adversarial Networks
+Zachary C. Lipton_ Subarna Tripathi
+15-Feb-17
+Non-Associative Learning Representation in the Nervous System of the Nematode Caenorhabditis elegans
+Ramin M. Hasani_ Magdalena Fuchs_ Victoria Beneder_ Radu Grosu
+15-Feb-17
+Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
+Xun Huang_ Serge Belongie
+15-Feb-17
+Recurrent Normalization Propagation
+César Laurent_ Nicolas Ballas_ Pascal Vincent
+15-Feb-17
+Deep Adversarial Gaussian Mixture Auto-Encoder for Clustering
+Warith Harchaoui_ Pierre-Alexandre Mattei_ Charles Bouveyron
+15-Feb-17
+Adversarial Examples for Semantic Image Segmentation
+Volker Fischer_ Mummadi Chaithanya Kumar_ Jan Hendrik Metzen_ Thomas Brox
+15-Feb-17
+RenderGAN: Generating Realistic Labeled Data
+Leon Sixt_ Benjamin Wild_ Tim Landgraf
+15-Feb-17
+Tuning Recurrent Neural Networks with Reinforcement Learning
+Natasha Jaques_ Shixiang Gu_ Richard E. Turner_ Douglas Eck
+14-Feb-17
+Generalization to new compositions of known entities in image understanding
+Yuval Atzmon_ Jonathan Berant_ Amir Globerson_ Vahid Kazemi_ Gal Chechik
+14-Feb-17
+Adaptive Feature Abstraction for Translating Video to Language
+Yunchen Pu_ Martin Renqiang Min_ Zhe Gan_ Lawrence Carin
+14-Feb-17
+Generalizable Features From Unsupervised Learning
+Mehdi Mirza_ Aaron Courville_ Yoshua Bengio
+14-Feb-17
+Neural Style Representations of Fine Art
+Jeremiah Johnson
+13-Feb-17
+Exploring loss function topology with cyclical learning rates
+Leslie N. Smith_ Nicholay Topin
+13-Feb-17
+Compact Embedding of Binary-coded Inputs and Outputs using Bloom Filters
+Joan Serrà_ Alexandros Karatzoglou
+13-Feb-17
+Perception Updating Networks: On architectural constraints for interpretable video generative models
+"Decoupled ""what"" and ""where"" variational statistical framework and equivalent multi-stream network"
+11-Feb-17
+Semi-supervised deep learning by metric embedding
+Elad Hoffer_ Nir Ailon
+11-Feb-17
+REBAR: Low-variance_ unbiased gradient estimates for discrete latent variable models
+George Tucker_ Andriy Mnih_ Chris J. Maddison_ Jascha Sohl-Dickstein
+10-Feb-17
+Adversarial examples in the physical world
+Alexey Kurakin_ Ian J. Goodfellow_ Samy Bengio
+10-Feb-17
+Variational Reference Priors
+Eric Nalisnick_ Padhraic Smyth
+9-Feb-17
+Development of JavaScript-based deep learning platform and application to distributed training
+Masatoshi Hidaka_ Ken Miura_ Tatsuya Harada
+8-Feb-17
+Song From PI: A Musically Plausible Network for Pop Music Generation
+Hang Chu_ Raquel Urtasun_ Sanja Fidler
+8-Feb-17
+Gated Multimodal Units for Information Fusion
+John Arevalo_ Thamar Solorio_ Manuel Montes-y-Gómez_ Fabio A. González
+8-Feb-17
+Adjusting for Dropout Variance in Batch Normalization and Weight Initialization
+Dan Hendrycks_ Kevin Gimpel
+7-Feb-17
+Methods for Detecting Adversarial Images and a Colorful Saliency Map
+Dan Hendrycks_ Kevin Gimpel
+7-Feb-17
+Charged Point Normalization: An Efficient Solution to the Saddle Point Problem
+Armen Aghajanyan
+7-Feb-17
+Compositional Kernel Machines
+Robert Gens_ Pedro Domingos
+7-Feb-17
+DL-gleaning: An approach for Improving inference speed and accuracy
+HyunYong Lee and Byung-Tak Lee
+5-Feb-17
+"Towards ""AlphaChem"": Chemical Synthesis Planning with Tree Search and Deep Neural Network Policies"
+Marwin Segler_ Mike Preuß_ Mark P. Waller
+2-Feb-17
+CommAI: Evaluating the first steps towards a useful general AI
+Marco Baroni_ Armand Joulin_ Allan Jabri_ Germàn Kruszewski_ Angeliki Lazaridou_ Klemen Simonic_ Tomas Mikolov
+31-Jan-17
+Summarized Behavioral Prediction
+Shih-Chieh Su
+20-Jan-17
